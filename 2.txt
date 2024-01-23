@@ -1,3 +1,4 @@
 line in branch
 local changes
 remote changes
+changes
